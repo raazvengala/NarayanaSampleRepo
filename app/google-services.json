@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853751395990",
+    "firebase_url": "https://firstandroid-b1a2d-default-rtdb.firebaseio.com",
+    "project_id": "firstandroid-b1a2d",
+    "storage_bucket": "firstandroid-b1a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853751395990:android:e0b1021146ba2ded37b4b7",
+        "android_client_info": {
+          "package_name": "com.narayana.myfirstandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853751395990-6aco2cilc1i9nd8fnq6hm3mgjf31uu11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZFqydT9Y79o3-vvMBrh_CnIRtn0_LUmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853751395990-6aco2cilc1i9nd8fnq6hm3mgjf31uu11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
